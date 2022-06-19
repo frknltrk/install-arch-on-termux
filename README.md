@@ -11,3 +11,7 @@
 ## Install Streamlit
 1. `pacman -S gcc`
 2. `pip install streamlit`
+
+## Install sentence-transformers
+1. `pip install wheel`
+2. `pip install sentence-transformers
