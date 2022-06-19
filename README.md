@@ -6,9 +6,8 @@
 4. `pacman -Syu`
 
 ## Install Python
-### Intro
 1. `pacman -S python python-pip`
 
-### Install Streamlit
+## Install Streamlit
 1. `pacman -S gcc`
-2. `pacman -S streamlit`
+2. `pip install streamlit`
