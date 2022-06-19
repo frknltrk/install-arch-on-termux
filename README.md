@@ -15,3 +15,7 @@
 ## Install sentence-transformers
 1. `pip install wheel`
 2. `pip install sentence-transformers
+
+## Useful Resources
+- https://itsfoss.com/pacman-command/
+- https://itsfoss.com/best-rolling-release-distros/
